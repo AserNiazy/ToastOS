@@ -32,7 +32,8 @@ You **may**:
 ## 📬 Contact
 
 To request permissions or report misuse, contact:  
-**Aser Niazy** – [GitHub](https://github.com/AserNiazy)
+**Aser Niazy** – 📧 **[aserniazy14@gmail.com]**
+
 
 ---
 
