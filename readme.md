@@ -22,4 +22,6 @@ Currently baking... stay tuned!
 ---
 
 ☕ Made with comfort in mind
+
+---
 Copyright © 2025 Aser Niazy. All rights reserved.
