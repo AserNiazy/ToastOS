@@ -1,6 +1,6 @@
 # ToastOS 🍞
 
-**A warm, user-friendly operating system made by Aser the Mad Scientist™.**
+**A warm, user-friendly operating system made by Aser Niazy™.**
 
 > Light, simple, and toasty — just the way you want your OS.
 
